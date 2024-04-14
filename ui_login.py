@@ -75,7 +75,7 @@ class Ui_Login(object):
         self.label = QLabel(self.frame)
         self.label.setObjectName(u"label")
         self.label.setGeometry(QRect(190, 0, 131, 131))
-        self.label.setPixmap(QPixmap(u"fotos/Usuario.png"))
+        self.label.setPixmap(QPixmap(u"img/Usuario.png"))
         self.label.setScaledContents(False)
         self.n_senha = QLabel(self.frame)
         self.n_senha.setObjectName(u"n_senha")
